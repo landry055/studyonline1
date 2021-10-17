@@ -1,0 +1,78 @@
+body{
+	background-color:maroon;
+}
+.para1{
+	text-align:center;
+	font-style:italic;
+	font-size:50px;
+	color:lime;
+	text-transform:uppercase;
+}
+.para1{
+	text-decoration:underline;
+	text-shadow:2px 3px 4px lime;
+}
+.para2{
+	text-align:center;
+	font-style:italic;
+	color:lime;
+}
+.para2{
+	font-size:30px;
+	text-shadow:2px 3px 4px lime;
+	text-transform:uppercase;
+}
+.para3{
+	box-shadow:2px 3px 4px white;
+	border-radius:15px;	font-style:italic;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	border-style:solid;
+}
+.para5{
+	font-style:italic;
+	text-align:center;
+	font-size:25px;
+	color:lime;
+	text-transform:uppercase;
+}
+.para6{
+	box-shadow:2px 3px 4px white;
+	
+	border-radius:15px;	font-style:italic;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	border-style:solid;
+}
+.para7{
+	font-style:italic;
+	text-align:center;
+	font-size:25px;
+	color:lime;
+	text-transform:uppercase;
+}
+.para8{
+	
+	
+	border-radius:15px;	font-style:italic;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	box-shadow:2px 3px 4px white;
+	border-style:solid;
+}
+.para9{
+	text-align:center;
+	font-size:italic;
+	font-size:25px;
+	color:white;
+}
+.para10{
+	font-size:25px;
+}
+
+
+@media screen and (max-whdth:500px){
+}
